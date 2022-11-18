@@ -1,0 +1,17 @@
+.pictograph{
+    position: relative;
+    background-color: #FFFFFF;
+    padding-block: 2em;
+    border-radius: 10px;
+    width: 90%;
+    margin: 2em auto;
+}
+.badge{
+    width: 2.2em;
+    height: 2.2em;
+    background: linear-gradient(rgb(100, 100, 100),rgb(73, 73, 73));
+    position: absolute;
+    top: -1em;
+    left: 1.5em;
+    border-radius: 5px;
+}
