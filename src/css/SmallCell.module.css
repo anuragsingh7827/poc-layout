@@ -1,6 +1,9 @@
 .smallCell{
     width: 50%;
     position: relative;
+    border: 1px solid #ccc;
+    margin: .7em;
+    border-radius: 10px;
 }
 .configBtn{
     position: absolute;
